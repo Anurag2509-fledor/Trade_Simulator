@@ -67,3 +67,4 @@ The system implements several optimization techniques:
 ## License
 
 This project is proprietary and confidential. 
+# Trade_Simulator
